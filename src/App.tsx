@@ -590,10 +590,7 @@ export default function App() {
 
         {/* Left side (أقصى اليسار) - Developed by Sherisherre */}
         <div className="text-slate-400 text-xs sm:text-sm font-medium z-10 flex items-center gap-1.5">
-          <span>Developed by</span>
-          <span className="text-sky-400 font-bold hover:underline transition-all">
-            Sherisherre
-          </span>
+          <span>Developed by Sherisherre </span>
         </div>
       </footer>
     </div>
