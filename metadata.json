@@ -1,0 +1,6 @@
+{
+  "name": "دليل الحاسب",
+  "description": "وصول سريع ومنظم لجميع الروابط التطوعية والمبادرات الطلابية بكلية الحاسب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
